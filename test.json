@@ -1,4 +1,9 @@
 {
-	"firstName": "Test",
-	"lastName": "User"
+	"people": [
+		{
+			"id": 1,
+			"firstName": "Test",
+			"lastName": "User"
+		}
+	]
 }
